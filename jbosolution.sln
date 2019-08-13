@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O5_for_if", "O5_for_if\O5_f
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O6_flow-break-continue", "flow-break-continue\O6_flow-break-continue.csproj", "{8381954C-AC53-48A0-A67C-5CA5195018CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O7_fejlhåndtering_simpel", "O7_fejlhåndtering_simpel\O7_fejlhåndtering_simpel.csproj", "{32C0AF33-434D-4010-9D16-C51F8AF3DFFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{8381954C-AC53-48A0-A67C-5CA5195018CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8381954C-AC53-48A0-A67C-5CA5195018CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8381954C-AC53-48A0-A67C-5CA5195018CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32C0AF33-434D-4010-9D16-C51F8AF3DFFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C0AF33-434D-4010-9D16-C51F8AF3DFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C0AF33-434D-4010-9D16-C51F8AF3DFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C0AF33-434D-4010-9D16-C51F8AF3DFFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
