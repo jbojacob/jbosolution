@@ -38,6 +38,7 @@ namespace O12_samlinger_generisk
 
             Dictionary<int, string> lst2 = new Dictionary<int, string>();
 
+
             lst2.Add(1, "M");
 
             lst2.Add(2, "T");
