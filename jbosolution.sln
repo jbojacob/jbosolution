@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O12_samlinger_generisk", "O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O13_klasser_simpel", "O13_klasser_simpel\O13_klasser_simpel.csproj", "{45125BA4-F7C1-40C2-ABC5-A2C44CBA4403}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O14_Klasser_terning", "O14_Klasser_terning\O14_Klasser_terning.csproj", "{4CA602A9-E81D-4D4F-8519-0E1AFA5E98D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{45125BA4-F7C1-40C2-ABC5-A2C44CBA4403}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45125BA4-F7C1-40C2-ABC5-A2C44CBA4403}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45125BA4-F7C1-40C2-ABC5-A2C44CBA4403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA602A9-E81D-4D4F-8519-0E1AFA5E98D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA602A9-E81D-4D4F-8519-0E1AFA5E98D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA602A9-E81D-4D4F-8519-0E1AFA5E98D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA602A9-E81D-4D4F-8519-0E1AFA5E98D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
