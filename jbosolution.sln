@@ -19,50 +19,54 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "O6_flow-break-continue", "f
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "O7_fejlhåndtering_simpel", "O7_fejlhåndtering_simpel\O7_fejlhåndtering_simpel.csproj", "{32C0AF33-434D-4010-9D16-C51F8AF3DFFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O8_Metoder", "O8_Metoder\O8_Metoder.csproj", "{8E710C2D-6C8F-4A59-B10D-93DEE17865B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "O8_Metoder", "O8_Metoder\O8_Metoder.csproj", "{8E710C2D-6C8F-4A59-B10D-93DEE17865B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O9_Metoder_statisk", "O9_Metoder_statisk\O9_Metoder_statisk.csproj", "{75CC2092-9149-4F24-9D4B-EFF397A98DEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "O9_Metoder_statisk", "O9_Metoder_statisk\O9_Metoder_statisk.csproj", "{75CC2092-9149-4F24-9D4B-EFF397A98DEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O10_Overload", "O10_Overload\O10_Overload.csproj", "{D5AC2A86-20EC-4243-B57F-6122322CD88D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "O10_Overload", "O10_Overload\O10_Overload.csproj", "{D5AC2A86-20EC-4243-B57F-6122322CD88D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O11_array_split", "O11_array_split\O11_array_split.csproj", "{1352CD8B-720C-4389-B82A-8251067DF47C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "O11_array_split", "O11_array_split\O11_array_split.csproj", "{1352CD8B-720C-4389-B82A-8251067DF47C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O12_samlinger_generisk", "O12_samlinger_generisk\O12_samlinger_generisk.csproj", "{B9832C04-B553-46BB-BAF0-95D27A506F3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "O12_samlinger_generisk", "O12_samlinger_generisk\O12_samlinger_generisk.csproj", "{B9832C04-B553-46BB-BAF0-95D27A506F3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O13_klasser_simpel", "O13_klasser_simpel\O13_klasser_simpel.csproj", "{45125BA4-F7C1-40C2-ABC5-A2C44CBA4403}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "O13_klasser_simpel", "O13_klasser_simpel\O13_klasser_simpel.csproj", "{45125BA4-F7C1-40C2-ABC5-A2C44CBA4403}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "O14_Klasser_terning", "O14_Klasser_terning\O14_Klasser_terning.csproj", "{4CA602A9-E81D-4D4F-8519-0E1AFA5E98D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "O14_Klasser_terning", "O14_Klasser_terning\O14_Klasser_terning.csproj", "{4CA602A9-E81D-4D4F-8519-0E1AFA5E98D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forskel-struct-class", "forskel-struct-class\forskel-struct-class.csproj", "{44D6FEBE-A389-48E2-9EB6-07E7FA72BA67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "forskel-struct-class", "forskel-struct-class\forskel-struct-class.csproj", "{44D6FEBE-A389-48E2-9EB6-07E7FA72BA67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hukommelse_visualiser", "hukommelse_visualiser\hukommelse_visualiser.csproj", "{1B7BEA3D-6E51-4A2F-8F85-6E2329DD006C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hukommelse_visualiser", "hukommelse_visualiser\hukommelse_visualiser.csproj", "{1B7BEA3D-6E51-4A2F-8F85-6E2329DD006C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konto-fællesopgave", "Konto-fællesopgave\Konto-fællesopgave.csproj", "{DA935346-3222-4EC0-81C1-19FCAF592444}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Konto-fællesopgave", "Konto-fællesopgave\Konto-fællesopgave.csproj", "{DA935346-3222-4EC0-81C1-19FCAF592444}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egenskaber_demo", "Egenskaber_demo\Egenskaber_demo.csproj", "{FC212AA8-2284-4B1F-A153-556AF5BBC117}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Egenskaber_demo", "Egenskaber_demo\Egenskaber_demo.csproj", "{FC212AA8-2284-4B1F-A153-556AF5BBC117}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indkapsling-opg-90-1", "Indkapsling-opg-90-1\Indkapsling-opg-90-1.csproj", "{D6899171-BB9C-4753-9EB2-22B4FCF86C00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indkapsling-opg-90-1", "Indkapsling-opg-90-1\Indkapsling-opg-90-1.csproj", "{D6899171-BB9C-4753-9EB2-22B4FCF86C00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{9B5175B2-DC09-42E3-ACAA-256A0B27EDED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{9B5175B2-DC09-42E3-ACAA-256A0B27EDED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{6E7502D6-22B1-4DDA-9B9B-38B33AA23974}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{6E7502D6-22B1-4DDA-9B9B-38B33AA23974}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egenskaber_Automatisk", "Egenskaber_Automatisk\Egenskaber_Automatisk.csproj", "{0B46CA95-424E-4704-9C79-56A10AEF69C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Egenskaber_Automatisk", "Egenskaber_Automatisk\Egenskaber_Automatisk.csproj", "{0B46CA95-424E-4704-9C79-56A10AEF69C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jbotester_egenskab", "jbotester_egenskab\jbotester_egenskab.csproj", "{DC6421D4-C220-4C84-84DD-B119009EF2B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jbotester_egenskab", "jbotester_egenskab\jbotester_egenskab.csproj", "{DC6421D4-C220-4C84-84DD-B119009EF2B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arvning_Simpel", "Arvning_Simpel\Arvning_Simpel.csproj", "{7A481C36-360C-4223-9BE2-392145EB7A5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arvning_Simpel", "Arvning_Simpel\Arvning_Simpel.csproj", "{7A481C36-360C-4223-9BE2-392145EB7A5E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{442D62E8-9538-41FC-A70D-46C9B82D022E}"
 	ProjectSection(SolutionItems) = preProject
 		TextFile1.txt = TextFile1.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arv_Random", "Arv_Random\Arv_Random.csproj", "{87AD485A-244A-469D-A30F-2E025B690E99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arv_Random", "Arv_Random\Arv_Random.csproj", "{87AD485A-244A-469D-A30F-2E025B690E99}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{55F81BA2-E648-4B96-B848-ABAA4ED8656A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{BAAF7FCC-5269-4405-B200-709C7125E10D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arv_abstract_klasse", "arv_abstract_klasse\arv_abstract_klasse.csproj", "{D95FDF6A-F29D-4437-8187-72496DBBFBDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arv_polymorfi_dyr", "arv_polymorfi_dyr\arv_polymorfi_dyr.csproj", "{E55570A4-4DEB-4B8A-9348-E376688B789E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -182,6 +186,14 @@ Global
 		{BAAF7FCC-5269-4405-B200-709C7125E10D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAAF7FCC-5269-4405-B200-709C7125E10D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAAF7FCC-5269-4405-B200-709C7125E10D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D95FDF6A-F29D-4437-8187-72496DBBFBDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95FDF6A-F29D-4437-8187-72496DBBFBDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95FDF6A-F29D-4437-8187-72496DBBFBDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95FDF6A-F29D-4437-8187-72496DBBFBDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E55570A4-4DEB-4B8A-9348-E376688B789E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E55570A4-4DEB-4B8A-9348-E376688B789E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E55570A4-4DEB-4B8A-9348-E376688B789E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E55570A4-4DEB-4B8A-9348-E376688B789E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
