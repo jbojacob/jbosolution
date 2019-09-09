@@ -6,14 +6,16 @@ namespace Interface_Compare
     {
         static void Main(string[] args)
         {
-            Hund[] hunde = new Hund[2];
+            Hund[] hunde = new Hund[4];
             hunde[0] = new Hund() { Alder = 10, Navn = "Bulder" };
             hunde[1] = new Hund() { Alder = 5, Navn = "Lady" };
+            hunde[2] = new Hund() { Alder = 5, Navn = "Anders" };
+            hunde[3] = new Hund() { Alder = 5, Navn = "Hanne" };
             Array.Sort(hunde);
             foreach (var item in hunde)
             {
-                Console.WriteLine(item.Navn);
-                Console.WriteLine(item.Alder);
+                Console.WriteLine(item.Navn + "-" + item.Alder) ;
+                //Console.WriteLine(item.Alder);
             }
 
 
@@ -42,13 +44,16 @@ namespace Interface_Compare
         //    return 0;
         //}
 
-        public int CompareTo(Hund h)
+        public int CompareTo(Hund other)
         {
-            if (h.Alder > this.Alder)
-                return -1;
-            if (h.Alder < this.Alder)
-                return 1;
-            return 0;
+
+            return string.Compare(this.Navn, other.Navn);
+
+            //if (h.Navn > this.Navn)
+            //    return -1;
+            //if (h.Navn < this.Navn)
+            //    return 1;
+            //return 0;
 
         }
     }
