@@ -76,6 +76,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegates_heltsimpel", "del
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegates_simpel_beregner", "delegates_simpel_beregner\delegates_simpel_beregner.csproj", "{5887FE95-FA44-4319-A7F4-5CB1735707F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegates_log", "delegates_log\delegates_log.csproj", "{7C6D77B2-C143-405B-A5E1-ADFD32A1A723}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -218,6 +220,10 @@ Global
 		{5887FE95-FA44-4319-A7F4-5CB1735707F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5887FE95-FA44-4319-A7F4-5CB1735707F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5887FE95-FA44-4319-A7F4-5CB1735707F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C6D77B2-C143-405B-A5E1-ADFD32A1A723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6D77B2-C143-405B-A5E1-ADFD32A1A723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6D77B2-C143-405B-A5E1-ADFD32A1A723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6D77B2-C143-405B-A5E1-ADFD32A1A723}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
