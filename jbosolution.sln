@@ -64,19 +64,29 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{BAAF7FCC-5269-4405-B200-709C7125E10D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arv_abstract_klasse", "arv_abstract_klasse\arv_abstract_klasse.csproj", "{D95FDF6A-F29D-4437-8187-72496DBBFBDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "arv_abstract_klasse", "arv_abstract_klasse\arv_abstract_klasse.csproj", "{D95FDF6A-F29D-4437-8187-72496DBBFBDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arv_polymorfi_dyr", "arv_polymorfi_dyr\arv_polymorfi_dyr.csproj", "{E55570A4-4DEB-4B8A-9348-E376688B789E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "arv_polymorfi_dyr", "arv_polymorfi_dyr\arv_polymorfi_dyr.csproj", "{E55570A4-4DEB-4B8A-9348-E376688B789E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_eget", "Interface_eget\Interface_eget.csproj", "{B1AC012C-8814-4CAC-9E16-1F28C024783F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface_eget", "Interface_eget\Interface_eget.csproj", "{B1AC012C-8814-4CAC-9E16-1F28C024783F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_Compare", "Interface_Compare\Interface_Compare.csproj", "{53CBC9E7-6B8B-4602-8BD3-ACFD62B5417B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface_Compare", "Interface_Compare\Interface_Compare.csproj", "{53CBC9E7-6B8B-4602-8BD3-ACFD62B5417B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegates_heltsimpel", "delegates_heltsimpel\delegates_heltsimpel.csproj", "{47785A57-F417-400E-B07D-7EFFA8A06FD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "delegates_heltsimpel", "delegates_heltsimpel\delegates_heltsimpel.csproj", "{47785A57-F417-400E-B07D-7EFFA8A06FD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegates_simpel_beregner", "delegates_simpel_beregner\delegates_simpel_beregner.csproj", "{5887FE95-FA44-4319-A7F4-5CB1735707F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "delegates_simpel_beregner", "delegates_simpel_beregner\delegates_simpel_beregner.csproj", "{5887FE95-FA44-4319-A7F4-5CB1735707F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegates_log", "delegates_log\delegates_log.csproj", "{7C6D77B2-C143-405B-A5E1-ADFD32A1A723}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "delegates_log", "delegates_log\delegates_log.csproj", "{7C6D77B2-C143-405B-A5E1-ADFD32A1A723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegates_lampda", "delegates_lampda\delegates_lampda.csproj", "{931230D7-AFF7-4AE1-BAA6-717FE9C3F96C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "events_kreditmax", "events_kreditmax\events_kreditmax.csproj", "{0C26C397-D830-44D6-900D-BFB9B004DE36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "events_filewatcher", "events_filewatcher\events_filewatcher.csproj", "{C7FFB33A-F659-4F5D-AF79-8DD9066CE2B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq2objects_person", "linq2objects_person\linq2objects_person.csproj", "{4A6EB870-38C2-4EF8-99B0-CEFDDA10CE7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Testing", "_Testing\_Testing.csproj", "{EB99427E-BEA6-4D79-87E8-E5FD7935E822}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -224,6 +234,26 @@ Global
 		{7C6D77B2-C143-405B-A5E1-ADFD32A1A723}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C6D77B2-C143-405B-A5E1-ADFD32A1A723}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C6D77B2-C143-405B-A5E1-ADFD32A1A723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{931230D7-AFF7-4AE1-BAA6-717FE9C3F96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931230D7-AFF7-4AE1-BAA6-717FE9C3F96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931230D7-AFF7-4AE1-BAA6-717FE9C3F96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931230D7-AFF7-4AE1-BAA6-717FE9C3F96C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C26C397-D830-44D6-900D-BFB9B004DE36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C26C397-D830-44D6-900D-BFB9B004DE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C26C397-D830-44D6-900D-BFB9B004DE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C26C397-D830-44D6-900D-BFB9B004DE36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7FFB33A-F659-4F5D-AF79-8DD9066CE2B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FFB33A-F659-4F5D-AF79-8DD9066CE2B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FFB33A-F659-4F5D-AF79-8DD9066CE2B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FFB33A-F659-4F5D-AF79-8DD9066CE2B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A6EB870-38C2-4EF8-99B0-CEFDDA10CE7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A6EB870-38C2-4EF8-99B0-CEFDDA10CE7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A6EB870-38C2-4EF8-99B0-CEFDDA10CE7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A6EB870-38C2-4EF8-99B0-CEFDDA10CE7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB99427E-BEA6-4D79-87E8-E5FD7935E822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB99427E-BEA6-4D79-87E8-E5FD7935E822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB99427E-BEA6-4D79-87E8-E5FD7935E822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB99427E-BEA6-4D79-87E8-E5FD7935E822}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
